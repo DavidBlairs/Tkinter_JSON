@@ -1,5 +1,5 @@
 # Tkinter for JSON
-This is a mini-project created during my teenage years as a "proof of concept" to how you could create tkinter GUIs by configuring widgets in a JSON like structure. In reflection, HTML5 has a similar and complementary data model and would of been a better option. I could of also used JSON itself instead of trying to create a new programming language arrogantly named "DSON" (David-Script-Object-Notation). I guess this is forshadowing to my degree choice of mathematics (mathematicians love naming things after themselves). Below you'll find the token rules that define string and function data type for the language and some information on how the code works below it. You can find the other data type definitions in `tokenRules.py`.
+This is a mini-project created during my teenage years as a "proof of concept" to how you could create tkinter GUIs by configuring widgets in a JSON like structure. In reflection, HTML5 has a similar and complementary data model and would of been a better option. I could of also used JSON itself instead of trying to create a new programming language. Below you'll find the token rules that define string and function data type for the language and some information on how the code works below it. You can find the other data type definitions in `tokenRules.py`.
 
 ### String:
 ```mermaid
