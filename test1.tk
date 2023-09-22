@@ -1,0 +1,32 @@
+{
+    >(
+        "s.objectName": "Frame1",
+        "s.objectType": "Frame",
+        "s.master": "Tk",
+        "g.column": #1#,
+        "g.row": #0#
+    )
+    >(
+        "s.objectName": "Button2",
+        "s.objectType": "Button",
+        "s.master": "Frame1",
+        "g.column": #0#,
+        "g.row": #0#,
+        "c.text": "Button_Test",
+    )
+    >(
+        "s.objectName": "Frame2",
+        "s.objectType": "Frame",
+        "s.master": "Frame1",
+        "g.column": #2#,
+        "g.row": #2#,
+    )
+    >(
+        "s.objectName": "Button3",
+        "s.objectType": "Button",
+        "s.master": "Frame2",
+        "g.column": #0#,
+        "g.row": #0#,
+        "c.text": "Third Button",
+    )
+}
